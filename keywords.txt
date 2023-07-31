@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map Task
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MQ137 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+getRo KEYWORD2
+getPPM KEYWORD2
+get_MQ137_R0 KEYWORD2
+mq137DebugPrint KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MQ137_PIN LITERAL1
+MQ137_R0 LITERAL1
+mq137_debug LITERAL1

@@ -1,0 +1,26 @@
+{
+  "name": "MQ137",
+  "description": "MQ137 Sensor use",
+  "keywords": "MQ, MQ137, ESP8266, sensor",
+  "authors": [
+      {
+          "name": "COLDMIND SOLUCIONES"
+      },
+      {
+          "name": "Pumilla Facundo",
+          "email": "coldmindsoluciones@gmail.com",
+          "url": "http://www.coldmind.ar",
+          "maintainer": true
+      }
+  ],
+  "repository": {
+      "type": "git",
+       "url": "https://github.com/FacundoPumilla/MQ137"
+  },
+  "version": "0.5",
+  "homepage": "https://github.com/FacundoPumilla/MQ137",
+  "frameworks": "Arduino",
+  "examples": [
+      "examples/*/*.ino"
+  ]
+}
